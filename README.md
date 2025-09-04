@@ -23,5 +23,3 @@ Vector Store: FAISS
 
 PDF Loader: LangChain’s PyPDFLoader
 
-🔒 Note
-This app runs locally and uses only local documents and models — no cloud upload or tracking involved.
